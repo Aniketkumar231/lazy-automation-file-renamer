@@ -1,0 +1,4 @@
+Kiro accelerated development by:
+- Providing the core os.rename logic in 1 minute.
+- Suggesting error handling, reducing debugging time by 50%.
+- Total time saved: ~30 minutes on a 1-hour project.
